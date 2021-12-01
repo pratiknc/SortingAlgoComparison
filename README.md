@@ -34,4 +34,4 @@ Project name: Comparison of Sorting Algorithms
 <br>Enter number of sample sizes to run for: 10
 <br>Enter initial sample size: 1000
 <br>Enter number to increment initial sample size by: 1000
-<br>Enter number of runs for calculating average time: 
+<br>Enter number of runs for calculating average time: 5
